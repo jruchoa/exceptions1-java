@@ -7,7 +7,7 @@ public class Reservation {
 
 	private Integer roomNumber;
 	private Date checkIn;
-	private Date checkOut ;
+	private Date checkOut;
 	
 	private static SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 	
